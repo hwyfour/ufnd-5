@@ -1,5 +1,3 @@
-# Udacity Fullstack Nanodegree Project 5
-
 # Configure the base system
 
 ## Update all the existing packages
@@ -254,4 +252,4 @@ URLs are changed to `http://ec2-52-39-235-152.us-west-2.compute.amazonaws.com/`.
 
 ## View in your browser!
 
-    http://ec2-52-39-235-152.us-west-2.compute.amazonaws.com/
+http://ec2-52-39-235-152.us-west-2.compute.amazonaws.com/
