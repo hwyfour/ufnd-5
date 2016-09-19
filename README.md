@@ -1,3 +1,13 @@
+# Notes for the reviewer
+
+Connect to this instance with the following command:
+
+    $ ssh grader@52.39.235.152 -p 2200 -i <private key provided in reviewer notes>
+
+And view the final instance at:
+
+http://ec2-52-39-235-152.us-west-2.compute.amazonaws.com/
+
 # Configure the base system
 
 ## Update all the existing packages
