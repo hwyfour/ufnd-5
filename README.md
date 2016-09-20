@@ -30,7 +30,7 @@ Login to the remote machine as the standard user:
 
     -> /etc/sudoers.d/grader contents:
 
-    grader ALL=(ALL) NOPASSWD:ALL
+    grader ALL=(ALL) ALL
 
 ### Generate an SSH key for the 'grader' user
 
